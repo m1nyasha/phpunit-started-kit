@@ -2,4 +2,4 @@
 
 require "vendor/autoload.php";
 
-use App\CodeWars;
+use App\Example;
