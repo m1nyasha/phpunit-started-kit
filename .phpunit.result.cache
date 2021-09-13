@@ -1,1 +1,1 @@
-{"version":1,"defects":{"CodewarsTest::test_example":3},"times":{"CodewarsTest::test_example":0.005}}
+{"version":1,"defects":{"CodewarsTest::test_example":3,"ExampleTest::test_example":3},"times":{"CodewarsTest::test_example":0.005,"ExampleTest::test_example":0.004}}
