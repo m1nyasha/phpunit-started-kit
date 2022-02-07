@@ -12,4 +12,4 @@ Basic example for unit testing PHP code
 3. `composer install`
 
 ## Using
-Start tests `.\vendor\bin\phpunit`
+Start tests `./vendor/bin/phpunit`
